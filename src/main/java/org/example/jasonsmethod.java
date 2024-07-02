@@ -1,8 +1,7 @@
 package org.example;
 
 public class jasonsmethod {
-    public static void main(String[] args) {
+    public static void jasonsaysHi(){
         System.out.println("Jason says hi");
     }
 }
-
